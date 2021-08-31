@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing an Uber/Lyft app
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on developing a ride sharing app
-- 📫 How to reach me ...
+- 📫 How to reach me yccudd@gmail.com
 
 <!---
 Dudenjd/Dudenjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
